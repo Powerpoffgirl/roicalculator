@@ -1,0 +1,29 @@
+.tier{
+    display:flex;
+    flex-direction: row;
+    justify-content:space-evenly;
+}
+
+.tier > button {
+background: #F9FAFB;
+border-radius: 30px;
+padding-top: 10px;
+padding-bottom:9px;
+padding-left: 27.77px;
+padding-right:32.23px;
+margin-top: 5px;
+color: #A2A2A2;
+border:none;
+}
+
+.tier > button1 {
+    background: #F9FAFB;
+    border-radius: 30px;
+    padding-top: 10px;
+    padding-bottom:9px;
+    padding-left: 27.77px;
+    padding-right:32.23px;
+    margin-top: 5px;
+    color: #000000;
+    background-color: #FED700;
+    }

@@ -1,0 +1,19 @@
+.hiddenpage > p {
+    display: flex;
+    align-items: center;
+    font-size: 14px;
+    font-weight:500;
+    padding-left: 212px;
+    padding: right 232px;
+}
+
+.hiddenpage >h2{
+    font-size: 14px;
+    font-weight: 600;
+}
+
+.hiddenpage > li{
+    font-size:14px;
+    font-weight:500;
+    color:#A3A3A3;
+}
